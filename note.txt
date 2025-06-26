@@ -1,0 +1,40 @@
+color=====
+
+black=  #000000
+orange= #FD511A
+green=  #21B573
+
+font-family====
+  Poppins 400 500 700
+  Roboto 400
+font-family: "Roboto", sans-serif;
+font-family: "Poppins", sans-serif;
+ 
+section- top+bottom - padding
+100
+80
+60
+
+
+content size
+alignment 
+ordering
+spacing
+display
+
+
+
+                  xxl-xl-lg      md       sm-col
+header  
+
+banner====
+padding          65              65       ##
+
+
+feature====
+padding-bottom    100            80      60  
+mt                45             40      30
+
+course====
+h1                36             30      28
+mt                60             40      30       
